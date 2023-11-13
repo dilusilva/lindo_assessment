@@ -18,7 +18,7 @@
 - Request Body :
   ```javascript
   {
-  "username": "username",
+  "username": "root",
   "password": "password"
   }
   ```
