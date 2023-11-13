@@ -1,4 +1,4 @@
-# Lindo Assessment - Rest API with Authentication
+# Lendo Assessment - Rest API with Authentication
 
 ## Build Project
 
