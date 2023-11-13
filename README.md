@@ -6,6 +6,8 @@
 - execute "mvn clean install".
 - Run the application
 - The application will start at http://localhost:8081.
+- [Postman Collection](https://github.com/dilusilva/lindo_assessment/blob/master/lendo_auth_postman_collection.postman_collection)
+
 
 ## API Endpoints
 
